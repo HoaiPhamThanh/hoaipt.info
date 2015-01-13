@@ -44,7 +44,7 @@ class RecipesController extends AppController {
                 'Category' => array(
                     'name' => 'chợ',
                     'sub_name' => array(
-                        'chợ' ,'siêu thị'
+                        'chợ' ,'siêu thị','đại lý'
                     )
                 )
             ),
@@ -53,6 +53,38 @@ class RecipesController extends AppController {
                     'name' => 'nhà hàng',
                     'sub_name' => array(
                         'thịt chó' ,'thịt vịt' ,'hải sản','châu âu','cơm bụi','bún-phở'
+                    )
+                )
+            ),
+            array(
+                'Category' => array(
+                    'name' => 'phương tiện đi lại',
+                    'sub_name' => array(
+                        'sửa xe - rửa xe' ,'đại lý Honda' ,'đại lý Yamaha' ,'đại lý Piagio'
+                    )
+                )
+            ),
+            array(
+                'Category' => array(
+                    'name' => 'điện thoại - máy tính',
+                    'sub_name' => array(
+                        'siêu thị điện máy' ,'cửa hàng điện thoại','cửa hàng máy tính','sim thẻ'
+                    )
+                )
+            ),
+            array(
+                'Category' => array(
+                    'name' => 'điện thoại - máy tính',
+                    'sub_name' => array(
+                        'siêu thị điện máy' ,'cửa hàng điện thoại','cửa hàng máy tính'
+                    )
+                )
+            ),
+            array(
+                'Category' => array(
+                    'name' => 'sức khỏe',
+                    'sub_name' => array(
+                        'hiệu thuốc' ,'bệnh viện','khám răng','phòng khám'
                     )
                 )
             ),
