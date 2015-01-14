@@ -16,4 +16,8 @@ public $layout = 'blog';
 public function index() {
 
 	}
+        public function devin() {
+            $this->layout = 'devin';
+	}
+        
 }
