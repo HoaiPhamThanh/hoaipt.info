@@ -68,8 +68,8 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 		<div class="container">
 			<div class="row centered">
 				<div class="col-lg-12">
-					<h1>William T. Kelvin</h1>
-					<h3>Web Designer | kelvin@blacktie.co</h3>
+					<h1>Hoai PT</h1>
+					<h3>Web Developer | hoai.phamthanh@yahoo.com.vn</h3>
 				</div><!--/.col-lg-12 -->
 			</div><!--/.row -->
 		</div><!--/.container -->

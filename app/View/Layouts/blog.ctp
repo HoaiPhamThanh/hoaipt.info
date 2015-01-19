@@ -54,7 +54,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
                 <div id="main-nav" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav" id="mainNav">
                         <li class="active"><a href="#home" class="scroll-link">Home</a></li>
-                        <li><a href="#aboutUs" class="scroll-link">About Us</a></li>
+                        <li><a href="#aboutUs" class="scroll-link">About Me</a></li>
                         <li><a href="#skills" class="scroll-link">Skills</a></li>
                         <li><a href="#experience" class="scroll-link">Experience</a></li>
                         <li><a href="#portfolio" class="scroll-link">Portfolio</a></li>
@@ -115,7 +115,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
         <div class="container">
             <div class="heading text-center">
                 <!-- Heading -->
-                <h2>I am Sam, a UI Designer & developer</h2>
+                <h2>I am Hoai, a web developer</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
             </div>
             <div class="row">
