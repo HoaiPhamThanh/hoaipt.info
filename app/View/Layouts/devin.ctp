@@ -85,10 +85,17 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 					<h5>ABOUT</h5>
 				</div>
 				<div class="col-lg-6">
-					<p>I'm web designer & front-end developer with 7 years of professional experience. I'm interested in all kinds of visual communication, but my major focus is on designing web, mobile & tablet interfaces. I also have skills in other fields like branding, icon design or web development.</p>
+					<p>I am seeking a position where I can use my knowledge of software simulation work,PHP, C# and mySQL,noSQL(mongo db)  in providing customized software solutions to the clients of the organization and also work in the development of new software.<br/>
+Experiencing in using Object-Oriented Programming, Object Oriented Analysis and Design methodology, design pattern, and enterprise applications. <br/>
+Have intensive experience with LAMP (Linux, Apache, MySQL, PHP) technologies.<br/>
+Have experience with some open source CMS such as Cake Framework , Symfony Framework, Joomla Framework, PHP-Fusion. Have 3 year dedicated experience in developing commercial Cake , Symfony Framework.<br/>
+Have solid experience with Javascript and nodejs.<br/>
+Solid understanding of software development process. <br/>
+Have strong teamwork experience.<br/>
+Spoken/Written languages: English, Vietnamese. </p>
 				</div>
 				<div class="col-lg-3">
-					<p><a href="#"><i class="icon-file"></i></a> <sm>DOWNLOAD PDF</sm></p>
+					<p><a href="/cv/CV- Pham Thanh Hoai.doc"><i class="icon-file"></i></a> <sm>MY CV</sm></p>
 				</div>
 				
 			</div><!--/.row -->
@@ -105,25 +112,14 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 					<h5>EDUCATION</h5>
 				</div>
 				<div class="col-lg-6">
-					<p><t>Master of Web Design</t><br/>
-						St. Patrick University <br/>
-						<i>3 Years Course</i>
+					<p><t>National Institute of Education</t><br/>
+						National Institute of Education <br/>
+						<i>4 Years Course</i>
 					</p>
 				</div>
 				<div class="col-lg-3">
-					<p><sm>GRADUATING IN MAY 2014</sm><br/>
-					<imp><sm>IN PROGRESS</sm></imp>
+					<p><sm>GRADUATING IN MAY 2011</sm>
 					</p>
-				</div>
-	
-				<div class="col-lg-6 col-lg-offset-3">
-					<p><t>Degree of Web Developer</t><br/>
-						Hastings University <br/>
-						<i>2 Years Course</i>
-					</p>
-				</div>
-				<div class="col-lg-3">
-					<p><sm>JUNE 2012</sm></p>
 				</div>
 	
 		</div><!--/.row -->
@@ -140,7 +136,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 					<h5>WORK</h5>
 				</div>
 				<div class="col-lg-6">
-					<p><t>Front-end Developer</t><br/>
+					<p><t>Back-end Developer</t><br/>
 						Black Tie Corp. <br/>
 					</p>
 					<p><more>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</more></p>
